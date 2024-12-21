@@ -6,3 +6,11 @@ h1 {
   color: black;
   font-size: 12px;
 }
+
+/* new codes */
+
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
