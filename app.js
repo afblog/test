@@ -13,3 +13,10 @@ const getMe = (user) => {
 const addCourse = (course) => {
   return true;
 };
+
+const addNewUsers = () => {
+  const addUser = {
+    name: 'ali',
+    age: '20',
+    job: 'front-end',
+}
