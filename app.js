@@ -16,7 +16,8 @@ const addCourse = (course) => {
 
 const addNewUsers = () => {
   const addUser = {
-    name: 'ali',
-    age: '20',
-    job: 'front-end',
-}
+    name: "ali",
+    age: "20",
+    job: "front-end",
+  };
+};
